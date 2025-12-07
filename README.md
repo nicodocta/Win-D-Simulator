@@ -29,7 +29,7 @@ pip install pywin32
 3. Haz clic en el botón **🖥️ Escritorio** para mostrar el escritorio.
 
 ## Personalización rápida
-- **Texto del botón**: modifica `text="🖥️ Pollo"`.
+- **Texto del botón**: modifica `text="🖥️ Escritorio"`.
 - **Tamaño/posición** de la ventana: cambia `root.geometry("120x40+10+10")`.
 - **Colores**: ajusta `bg`, `fg`, `activebackground`, `activeforeground`.
 
